@@ -1,0 +1,4 @@
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS7\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS7\Form1\obj\Debug\CubioGUI.Form1.resources
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS7\Form1\obj\Debug\Form1.Properties.Resources.resources
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS7\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
